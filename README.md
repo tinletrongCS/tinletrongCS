@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Tin
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : via GitHub and Instagram
-- 😄 Pronouns: ...
+- 👋 Hi, I’m 🐢
+- I’m currently learning Computer Science
+- How to reach me : via GitHub and Instagram
 - ⚡ Fun fact: I sleep not much
 
 <!---
