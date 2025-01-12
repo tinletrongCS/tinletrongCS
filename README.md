@@ -1,3 +1,5 @@
+- University of Technology - HCMC National University (HCMUT)
+- Computer Science and Engineering Faculity 
 - Major : Computer Science
 - How to reach me : via GitHub and Instagram
 
