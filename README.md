@@ -51,5 +51,3 @@
 [![](https://visitcount.itsvg.in/api?id=tinletrongCS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tinletrongCS)](https://git.io/streak-stats)
