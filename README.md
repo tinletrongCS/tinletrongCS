@@ -51,4 +51,4 @@
 [![](https://visitcount.itsvg.in/api?id=tinletrongCS&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinletrongCS)](https://github.com//github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinletrongCS)](https://github.com/tinletrongCS/github-readme-stats)
