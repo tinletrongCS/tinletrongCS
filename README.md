@@ -33,6 +33,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=tinletrongCS&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tinletrongCS&theme=dark)](https://git.io/streak-stats)
 
 
