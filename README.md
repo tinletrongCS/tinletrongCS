@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lttin610) 
 -->
-Hi, as a third-year student with Software Engineer major,  I'm passionate about building robust backend systems. Tech stack includes Java, Go, Python, and JavaScript. Experienced with Spring, Gin, and Django frameworks, deployed on AWS using Docker and GitLab CI/CD.
+Hi, as a third-year student with Software Engineer major,  I'm passionate about building robust backend systems. Tech stack includes **Java, Go, Python, and JavaScript**. Experienced with **Spring, Gin, and Node.js** frameworks, deployed on AWS using Docker and GitLab CI/CD.
 More about me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lttin610) 
